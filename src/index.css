@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.form, .recipe-list {
+  width: 50%;
+  float: left;
+}
+
+.recipe-list {
+  text-align: center;
+}
